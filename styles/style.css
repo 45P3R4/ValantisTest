@@ -36,6 +36,10 @@ select {
     margin-left: 50px;
 }
 
+#filter-button {
+    margin-left: 5px;
+}
+
 #productList {
     margin-top: 25px;
     margin-left: auto;
